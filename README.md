@@ -5,7 +5,6 @@ NSLVE Campus Reports
 IRS SOI County-to-County migration data
 UNC Residence Hall Addresses (https://housing.unc.edu/live/resident-resources/mail-packages/whats-my-address/)
 
-
 Voter Registration
 https://www.ncsbe.gov/results-data/voter-registration-data
 https://s3.amazonaws.com/dl.ncsbe.gov/data/layout_ncvoter.txt
